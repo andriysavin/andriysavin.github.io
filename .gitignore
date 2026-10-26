@@ -1,3 +1,14 @@
-web/public
-web/resources/_gen
+# Hugo generated site
+/web/public/
+
+/* Hugo-generated resources and caches
+/web/resources/_gen/
+/web/.hugo_build.lock
+
+# Node.js dependencies, if used
+/web/node_modules/
+
+/# OS/editor files
 .DS_Store
+.idea/
+.vscode/
