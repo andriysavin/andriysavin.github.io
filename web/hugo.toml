@@ -1,0 +1,12 @@
+baseURL = 'https://andriysavin.github.io'
+locale = 'en-us'
+title = "Andriy Savin"
+theme = 'papermod'
+[params]
+  defaultTheme = "auto"
+  ShowCodeCopyButtons = true
+  subtitle = "Andriy Savin's tech blog"
+
+[markup]
+  [markup.highlight]
+    style = "catppuccin-macchiato"

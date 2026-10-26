@@ -1,0 +1,6 @@
+[submodule "web/themes/ananke"]
+	path = web/themes/ananke
+	url = https://github.com/gohugo-ananke/ananke
+[submodule "web/themes/papermod"]
+	path = web/themes/papermod
+	url = https://github.com/adityatelange/hugo-PaperMod
