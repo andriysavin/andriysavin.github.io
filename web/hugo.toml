@@ -10,3 +10,7 @@ theme = 'papermod'
 [markup]
   [markup.highlight]
     style = "catppuccin-macchiato"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
