@@ -38,7 +38,12 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
-
+        
+      - name: Show Pages URL
+        env:
+          PAGES_URL: ${{ steps.pages.outputs.base_url }}
+        run: echo "Pages URL is $PAGES_URL"
+        
       - name: Create a local tools directory
         run: |
           mkdir -p "${HOME}/.local"
