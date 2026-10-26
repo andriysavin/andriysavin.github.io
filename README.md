@@ -2,7 +2,7 @@
 
 Source for [andriysavin.github.io](https://andriysavin.github.io) blog website.
 
-Once cloned, make sure to run git submodule update --init --recursive
+Once cloned, make sure to run 'git submodule update --init --recursive'
 
 ## What open source tools I used to build this?
 
