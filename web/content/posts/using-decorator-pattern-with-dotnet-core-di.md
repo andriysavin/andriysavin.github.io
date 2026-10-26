@@ -1,6 +1,5 @@
 +++
 date = '2018-02-23T00:00:00Z'
-draft = true
 title = 'Using Decorator pattern with .Net Core dependency injection container'
 categories = [".NET"]
 +++
