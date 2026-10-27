@@ -1,6 +1,6 @@
 # My blog website
 
-Source for [andriysavin.github.io](https://andriysavin.github.io) blog website.
+Source for [andsav.dev](https://andsav.dev) blog website.
 
 Once cloned, make sure to run `git submodule update --init --recursive`
 
