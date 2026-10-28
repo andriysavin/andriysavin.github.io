@@ -1,11 +1,24 @@
 baseURL = 'https://andsav.dev'
 locale = 'en-us'
-title = "Andriy Savin"
+title = "🌱 Andriy Savin"
 theme = 'papermod'
 [params]
   defaultTheme = "auto"
   ShowCodeCopyButtons = true
   subtitle = "Andriy Savin's tech blog"
+
+  [params.homeInfoParams]
+    Title = 'Welcome to my tech blog!'
+    Content = "🌱 natural intelligence, organic programming"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/andriysavin"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/andriysavin/"
+
 
 [markup]
   [markup.highlight]
