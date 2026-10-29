@@ -2,6 +2,7 @@
 date = '2026-04-28T00:00:00Z'
 title = 'C++ std module on macOS with Clang'
 categories = ["C++"]
+tags = ['C++', 'Clang', 'LLVM', 'module']
 +++
 
 If you, like me, are modernising your C++ knowledge (or learning it for the first time) and have discovered the C++ modules feature, you probably thought: *how cool - it’s like self-contained libraries/assemblies/packages/crates from my favourite language X, which has had them forever!* No more **#includes**, which have been the source of all sorts of problems.

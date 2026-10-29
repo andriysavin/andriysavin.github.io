@@ -2,6 +2,7 @@
 date = '2018-02-23T00:00:00Z'
 title = 'Using Decorator pattern with .Net Core dependency injection container'
 categories = [".NET"]
+tags = ['dependency injection', 'IoC', 'pattern']
 +++
 
 ### TL;DR
