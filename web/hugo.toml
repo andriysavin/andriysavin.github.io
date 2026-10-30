@@ -20,6 +20,19 @@ theme = 'papermod'
     name = "linkedin"
     url = "https://www.linkedin.com/in/andriysavin/"
 
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Posts'
+    pageRef = '/posts'
+    weight = 20
+  [[menus.main]]
+    name = 'Reads'
+    pageRef = '/reads'
+    weight = 30
 
 [markup]
   [markup.highlight]
