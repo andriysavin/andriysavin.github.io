@@ -6,6 +6,7 @@ theme = 'papermod'
   defaultTheme = "auto"
   ShowCodeCopyButtons = true
   subtitle = "Andriy Savin's tech blog"
+  comments = true
   
   [params.homeInfoParams]
     Title = 'Welcome to my tech blog!'
@@ -27,3 +28,7 @@ theme = 'papermod'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[services]
+  [services.disqus]
+    shortname = 'andsav'
