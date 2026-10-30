@@ -1,2 +1,4 @@
-<br/>
-{{ partial "disqus.html" . }}
+{{ if eq .Section "posts" }}
+    <br/>
+    {{ partial "disqus.html" . }}
+{{ end }}
