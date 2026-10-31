@@ -7,8 +7,10 @@ The list below is not exhaustive, as there are many books that I read only parti
 A valuable book for those who want to get familiar with the recent (modern) features and best practices in C++ without going through all the basics again.
 * **[How Linux Works, 3rd Edition: What Every Superuser Should Know](https://a.co/d/00GxGeSh)** - *by Brian Ward*  
 Re-reading this one second time and still learning new things 😅
-* **[Algorithms Illuminated: Part 1: The Basics](https://a.co/d/01olg6jR)** - *by Tim Roughgarden*
-* **[Algorithms Illuminated (Part 2): Graph Algorithms and Data Structures](https://a.co/d/0fV1ckIU)** - *by Tim Roughgarden*    
+* **[Algorithms Illuminated (Part 1): The Basics](https://a.co/d/01olg6jR)** - *by Tim Roughgarden*
+* **[Algorithms Illuminated (Part 2): Graph Algorithms and Data Structures](https://a.co/d/0fV1ckIU)** - *by Tim Roughgarden*
+* **[C Programming Language, 2nd Edition](https://a.co/d/044dilGw)** - *by Brian W. Kernighan, Dennis M. Ritchie*  
+Almost 40 years since publishing, and this book remains an amaizing read!    
 * **[Refactoring: Improving the Design of Existing Code (2nd Edition)](https://a.co/d/0fCUxszW)** - *by Martin Fowler*  
 
 ### A while ago
@@ -19,6 +21,8 @@ Re-reading this one second time and still learning new things 😅
 * **[Adaptive Code via C#: Agile coding with design patterns and SOLID principles](https://www.informit.com/store/adaptive-code-via-c-sharp-agile-coding-with-design-9780133979756)** - *by Gary McLean Hall*  
 * **[Concurrent Programming on Windows](https://www.oreilly.com/library/view/concurrent-programming-on/9780321434821/)** - *by Joe Duffy*  
 An excellent book which covers not just Windows threading facilities, but also .NET primitives built on top of it, as well as many implementation details (e.g. how Monitor works and how object's header is used for that) which are hard to find elsewhere. I'm a big fan of the author; he wrote a number of great articles on .NET concurrency, his work on experimental OS Midori and more in his [blog](https://joeduffyblog.com).
+* **[C++ Programming Language, The, 4th Edition](https://a.co/d/06L1G7d8)** - *by Bjarne Stroustrup*  
+Read this partially, still using it as a reference, as this is a huge book.
 * **[Framework Design Guidelines: Conventions, Idioms, and Patterns for Reuseable .NET Libraries](https://a.co/d/0aTyuiib)** - *by Krzysztof Cwalina, Brad Abrams*
 * **[CLR via C# (Developer Reference)](https://a.co/d/0iEsWNZd)** - *by Jeffrey Richter*  
 Read each edition more than once, a must for a .NET developer. 
@@ -29,5 +33,9 @@ I wish the authors also wrote similar books on Linux and macOS internals, a bril
 * **[NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence](https://www.informit.com/store/nosql-distilled-a-brief-guide-to-the-emerging-world-9780321826626?ranMID=24808)** - *Pramod J. Sadalage, Martin Fowler* 
 * **[Microsoft® SQL Server® 2008 T-SQL Fundamentals](https://a.co/d/0hy62a1M)** - *by Itzik Ben-Gan*  
 Very easy read, yet covers most features of T-SQL and standard SQL. I'm still returning to this book (recent edition) when I need to refresh my SQL knowledge.
-* **[WPF 4 Unleashed](https://a.co/d/03DW6dIB)** - *by Adam Nathan*   
-
+* **[WPF 4 Unleashed](https://a.co/d/03DW6dIB)** - *by Adam Nathan*
+* **[The Art of the Start: The Time-Tested, Battle-Hardened Guide for Anyone Starting Anything](https://a.co/d/05KAhxJw)** - *by Guy Kawasaki*
+* **[Death March: The Complete Software Developer's Guide to Surviving "Mission Impossible" Projects](https://a.co/d/0cQ9H8Vl)** - *by Edward Yourdon*  
+I read this book at the time I was working on a [3D game startup](https://store.steampowered.com/app/289200/Ascension_to_the_Throne/), and the book really resonated with many stages and issues our project had gone through.
+* **[Book on C, A: Programming in C](https://a.co/d/0b8P6SD4)**  - *Al Kelley, Ira Pohl*  
+I believe this was my first book on C, and it made me fall in love with programming. Probably, it was due to the simple and clear style of the book.
